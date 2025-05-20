@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "src/app/api/uploadResume/route.js": {
-      "includeFiles": "test/data/05-versions-space.pdf"
-    }
-  }
-}
